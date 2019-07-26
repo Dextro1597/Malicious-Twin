@@ -1,5 +1,5 @@
 # Malicious-Twin
-Malicious Twin is a tool that will creat a malicious apk or exe for you without any hassle.You can either give an apk or exe to the tool and it will build the malicious apk or exe of the same using msfvenom. If you dont not want to give any apk or exe just press enter and move forward and the tool will make a defualt apk or exe accordingly. You need to give your host IP address and a port number on which you will listen back to. The apk or exe will be created on Desktop in an directory called "Hacking".  
+Malicious Twin is a tool that will creat a malicious apk or exe for you without any hassle.You can either give an apk or exe to the tool and it will build the malicious apk or exe of the same using msfvenom. If you dont not want to give any apk or exe just press enter and move forward and the tool will make a defualt apk or exe accordingly. You need to give your host IP address and a port number on which you will listen back to. The apk or exe will be created on Desktop in an directory called "Hacking". To run the tool navigate to the directory where you have saved it from the terminal and then type ./malicious_twin.sh and Wallah your in.
 
 
 ***IMP: Please note that the apk or exe should be as following:-             
