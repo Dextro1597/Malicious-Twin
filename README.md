@@ -3,8 +3,8 @@ Malicious Twin is a tool that will creat a malicious apk or exe for you without 
 
 
 ***IMP: Please note that the apk or exe should be as following:-             
-        * The size of apk or exe should be small.        
-        * The version of apk or exe should be old the tool might not be able to make apk or exe of the latest version.
+        1.The size of apk or exe should be small.        
+        2.The version of apk or exe should be old the tool might not be able to make apk or exe of the latest version.
         
 ***IMP: If you are giving an apk or exe as an input the permissions will be set according to them only . And if you are not giving any apk or exe all permissions will be set on by default. 
 
