@@ -4,6 +4,8 @@ Malicious Twin is a tool that will creat a malicious apk or exe for you without 
 
 To run the tool navigate to the directory where you have saved it ,from the terminal first type chmod +x malicious_twin.sh and then type ./malicious_twin.sh and Wallah your in.
 
+After the apk/exe is created you can get a reverse tcp connection using msfconsole.
+
 
 ***IMP: Please note that the apk or exe should be as following:-             
         1.The size of apk or exe should be small.        
