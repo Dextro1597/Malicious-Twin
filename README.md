@@ -20,4 +20,4 @@ After the apk/exe is created you can get a reverse tcp connection using msfconso
 ***IMP: If you are giving an apk or exe as an input the permissions will be set according to them only . And if you are not giving any apk or exe all permissions will be set on by default. 
 
 ***IMP: You might need to install zipaling. Else it will show error in android module . 
-        Command to install zipalign:-  apt-get install zipaling
+        Command to install zipaling:-  apt-get install zipaling
